@@ -1,0 +1,9 @@
+# Sauvegardes chiffrées (fichiers générés)
+*.gpg
+
+# Dossiers de restauration
+restore_*/
+
+# Fichiers temporaires
+*.tmp
+*.log
